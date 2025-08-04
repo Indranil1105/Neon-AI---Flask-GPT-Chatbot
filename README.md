@@ -26,8 +26,9 @@ OpenAI API key
 
 Clone the repo:
 
-git clone <repo-url>  
-cd <repo-directory>  
+git clone (https://github.com/Indranil1105/Neon-AI---Flask-GPT-Chatbot.git) 
+
+cd Neon-AI---Flask-GPT-Chatbot.git  
 
 ## Install dependencies:
 
